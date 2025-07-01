@@ -51,7 +51,7 @@ const bob = new Gato("Bob", 5, "laranja");
 const davi = new Passaro("Davi", 8, "cinza e amarelo");
 
 // ver no HTML
-function testarAnimais() {
+function sobreAnimais() {
     const outputDiv = document.getElementById('output');
     outputDiv.innerHTML = `
         <h3>Cachorro:</h3>
